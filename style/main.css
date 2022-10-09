@@ -92,6 +92,12 @@ p{
     text-indent: -22px ;
 }
 
+#hangingMini {
+    padding-left: 22px ;
+    text-indent: -22px ;
+    font-size: 75%;
+}
+
 .footer {
 	font-size: 55%;
 	color: #cac5d3;
