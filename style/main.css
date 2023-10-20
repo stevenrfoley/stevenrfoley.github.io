@@ -1,5 +1,5 @@
-a:link {text-decoration:none; color: #8d879a;}
-a:visited {text-decoration:none; color: #8d879a;}
+a:link {text-decoration:none; color: #8d879a; text-decoration:underline;}
+a:visited {text-decoration:none; color: #8d879a; text-decoration:underline;}
 a:hover {text-decoration:underline;}
 a:active {text-decoration:underline;}
 
